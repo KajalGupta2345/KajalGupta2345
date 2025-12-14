@@ -8,14 +8,11 @@
 </p>
 </div>
 
-## 👩‍💻 About Me
-- Passionate backend developer building scalable APIs, working with databases, optimizing performance, and experienced in React.js & frontend fundamentals. Sharpening DSA for problem solving and technical interviews.
+- Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.  
+- Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.  
+- Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.  
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
 
-## 🌱 Currently Working On
-- Advanced Backend Development • Authentication & Authorization (JWT) • RESTful API Design & Documentation • Performance tuning & database query optimization • Strengthening DSA for technical interviews
-
-## 💬 Ask Me About
-- Backend Development • Node.js & Express.js • MongoDB & Databases • REST APIs & API design • JavaScript / React.js • Data Structures & Algorithms
 
 ## 🛠️ Languages & Tools
 
