@@ -1,99 +1,89 @@
-<div>
-
-<h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
-<h3  align="center">🎓 Computer Science Student</h3>
-<h4  align="center">💻 Aspiring Software / Full-Stack Developer</h4>
-🇮🇳 India
-
-👨‍💻 Explore my projects
-👉 <a href="https://github.com/KajalGupta2345?tab=repositories">GitHub Repositories</a>
-
-📫 Reach me on
-👉 <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/">LinkedIn</a>
-
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/3369400?v=4?s=120" alt="profile" width=120/>
+  
+  <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
+  <p align="center">🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
+  <p align="center">
+    <a href="https://github.com/KajalGupta2345?tab=repositories">
+      <strong>Explore my Projects</strong> ↗️
+    </a>
+  </p>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a passionate software developer with a strong interest in **backend development**.
-I enjoy building **scalable APIs**, working with **databases**, and writing **clean, maintainable code**.
-Along with backend, I also have solid experience in **React.js** and frontend fundamentals.
-Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)** skills to improve problem-solving and prepare for technical interviews.
+I am a passionate software developer focused on backend development and building reliable, scalable APIs. I enjoy working with databases, optimizing performance, and writing clean, maintainable code. I also have hands-on experience with React.js and frontend fundamentals. Currently sharpening my Data Structures & Algorithms (DSA) skills to level up problem solving and prepare for technical interviews.
 
 ---
 
 ## 🌱 Currently Working On
 
-* Advanced Backend Development
-* Authentication & Authorization (**JWT**)
-* RESTful API Design
-* Improving API performance & database queries
-* Strengthening **DSA** for technical interviews
+- Advanced Backend Development
+- Authentication & Authorization (JWT)
+- RESTful API Design and Documentation
+- Performance tuning & database query optimization
+- Strengthening DSA for technical interviews
 
 ---
 
 ## 💬 Ask Me About
 
-* Backend Development
-* Node.js & Express.js
-* MongoDB
-* REST APIs
-* JavaScript
-* React.js
-* Data Structures & Algorithms
+- Backend Development
+- Node.js & Express.js
+- MongoDB & Databases
+- REST APIs & API design
+- JavaScript / React.js
+- Data Structures & Algorithms
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<div >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=48 alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=48 alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=48 alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=48 alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=48 alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=48 alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=48 alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=48 alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=48 alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=48 alt="C++"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<div>
-  <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=36 alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Kajal_Gupta_85/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+  <a href="https://leetcode.com/u/Kajal_Gupta_85/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width=36 alt="LeetCode"/>
   </a>
-</div>
+  &nbsp;&nbsp;
+  <a href="mailto:kajal@example.com">
+    ✉️ kajal@example.com
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div >
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345\&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" alt="Top Languages"/>
+</p>
 
 ---
 
-<div>
-
-⚡ **Fun Fact:** I love turning complex code into smooth, working applications — basically, making magic happen with just a keyboard.
-
-</div>
-
-
-
-
-
+<p align="center">
+⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
+</p>
