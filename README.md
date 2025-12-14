@@ -47,18 +47,21 @@ I am a passionate software developer focused on backend development and building
 ## 📫 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Kajal_Gupta_85/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="36" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/kk234xww3" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="36" alt="GeeksforGeeks"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Kajal_Gupta_85/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/kk234xww3" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geekforgeeks/geekforgeeks-original.svg" width="48" alt="GeeksforGeeks"/>
+</a>
+
 </div>
+
 
 ## 📊 GitHub Stats
 
