@@ -1,10 +1,6 @@
 <table>
 <tr>
 <td width="60%">
-<p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" width="150" />
-</p>
-
 ## Hi 👋, I'm Kajal Kumari 
 
 🎓 A passionate **Computer Science student**  
@@ -28,10 +24,6 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 <td width="40%" align="right">
 
 <img src="https://github.com/user-attachments/assets/3ddade75-5d4d-4f6a-97c9-84f3c7a164a5.png" width="250" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -97,3 +89,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 ---
 
 ⚡ Fun Fact: Loves turning complex code into smooth, working apps – basically, making magic happen with just a keyboard!
+
+</td>
+</tr>
+</table>
