@@ -8,13 +8,9 @@
   </p>
 </p>
 
----
-
 ## 👩‍💻 About Me
 
 I am a passionate software developer focused on backend development and building reliable, scalable APIs. I enjoy working with databases, optimizing performance, and writing clean, maintainable code. I also have hands-on experience with React.js and frontend fundamentals. Currently sharpening my Data Structures & Algorithms (DSA) skills to level up problem solving and prepare for technical interviews.
-
----
 
 ## 🌱 Currently Working On
 
