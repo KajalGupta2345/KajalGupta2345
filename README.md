@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
 <p align="center">🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
-<p>
+<p align="center">
   <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
     <strong>Explore my Projects</strong> ↗️
   </a>
 </p>
 
 <!-- Right side image -->
-<img src="https://avatars.githubusercontent.com/u/13456789?v=4" alt="Profile" width="150" align="right" style="border-radius:50%; margin-left: 20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/svg-repo/svgs/logos/female-programmer.svg" width="100" alt="Coding Girl"/>
+
 
 <ul>
   <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
