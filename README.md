@@ -1,22 +1,33 @@
-<div align="center">
-<h1>Hi 👋, I'm Kajal Kumari</h1>
-<p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
-<p>
-  <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
-    <strong>Explore my Projects</strong> ↗️
-  </a>
-</p>
-</div>
+<div style="display: flex; align-items: flex-start;">
 
-- Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.  
-- Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.  
-- Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.  
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
+  <!-- Left side content -->
+  <div style="flex: 1;">
+    <h1>Hi 👋, I'm Kajal Kumari</h1>
+    <p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
+    <p>
+      <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
+        <strong>Explore my Projects</strong> ↗️
+      </a>
+    </p>
+
+    <ul>
+      <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
+      <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
+      <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
+    </ul>
+  </div>
+
+  <!-- Right side image -->
+  <div style="margin-left: 20px;">
+    <img src="https://avatars.githubusercontent.com/u/13456789?v=4" alt="Profile" width="150" style="border-radius: 50%;"/>
+  </div>
+
+</div>
 
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
@@ -31,7 +42,7 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn"/>
 </a>
@@ -46,15 +57,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" width="300" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" width="300" alt="Top Languages"/>
-</div>
-
-⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
