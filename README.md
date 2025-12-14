@@ -1,7 +1,7 @@
-<p align="center">
-  <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
-  <p align="center">🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
-  <p align="center">
+<p>
+  <h1>Hi 👋, I'm Kajal Kumari</h1>
+  <p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
+  <p>
     <a href="https://github.com/KajalGupta2345?tab=repositories">
       <strong>Explore my Projects</strong> ↗️
     </a>
@@ -20,7 +20,6 @@ I am a passionate software developer focused on backend development and building
 - Performance tuning & database query optimization
 - Strengthening DSA for technical interviews
 
----
 
 ## 💬 Ask Me About
 
@@ -31,7 +30,6 @@ I am a passionate software developer focused on backend development and building
 - JavaScript / React.js
 - Data Structures & Algorithms
 
----
 
 ## 🛠️ Languages & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=48 alt="Node.js"/>
@@ -45,7 +43,7 @@ I am a passionate software developer focused on backend development and building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=48 alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=48 alt="C++"/>
 
----
+
 
 ## 📫 Connect With Me
 
@@ -61,7 +59,7 @@ I am a passionate software developer focused on backend development and building
     ✉️ kajal@example.com
   </a>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -70,6 +68,6 @@ I am a passionate software developer focused on backend development and building
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" alt="Top Languages"/>
 
 
----
+
 
 ⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
