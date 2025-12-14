@@ -1,8 +1,3 @@
-<table>
-<tr>
-  <!-- Left column -->
-  <td valign="top">
-
 <h1>Hi 👋, I'm Kajal Kumari</h1>
 <p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
 <p>
@@ -11,20 +6,15 @@
   </a>
 </p>
 
+<!-- Right side image -->
+<img src="https://avatars.githubusercontent.com/u/13456789?v=4" alt="Profile" width="150" align="right" style="border-radius:50%; margin-left: 20px;"/>
+
 <ul>
   <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
   <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
   <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
 </ul>
 
-  </td>
-
-  <!-- Right column -->
-  <td valign="top" width="200">
-    <img src="https://avatars.githubusercontent.com/u/13456789?v=4" alt="Profile" width="150" style="border-radius: 50%;"/>
-  </td>
-</tr>
-</table>
 
 
 
