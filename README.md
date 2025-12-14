@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/3369400?v=4?s=120" alt="profile" width=120/>
-  
   <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
   <p align="center">🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
   <p align="center">
