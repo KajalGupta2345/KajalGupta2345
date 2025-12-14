@@ -9,29 +9,17 @@
 </div>
 
 ## 👩‍💻 About Me
-
-I am a passionate software developer focused on backend development and building reliable, scalable APIs. I enjoy working with databases, optimizing performance, and writing clean, maintainable code. I also have hands-on experience with React.js and frontend fundamentals. Currently sharpening my Data Structures & Algorithms (DSA) skills to level up problem solving and prepare for technical interviews.
+- Passionate backend developer building scalable APIs, working with databases, optimizing performance, and experienced in React.js & frontend fundamentals. Sharpening DSA for problem solving and technical interviews.
 
 ## 🌱 Currently Working On
-
-* Advanced Backend Development
-* Authentication & Authorization (JWT)
-* RESTful API Design and Documentation
-* Performance tuning & database query optimization
-* Strengthening DSA for technical interviews
+- Advanced Backend Development • Authentication & Authorization (JWT) • RESTful API Design & Documentation • Performance tuning & database query optimization • Strengthening DSA for technical interviews
 
 ## 💬 Ask Me About
-
-* Backend Development
-* Node.js & Express.js
-* MongoDB & Databases
-* REST APIs & API design
-* JavaScript / React.js
-* Data Structures & Algorithms
+- Backend Development • Node.js & Express.js • MongoDB & Databases • REST APIs & API design • JavaScript / React.js • Data Structures & Algorithms
 
 ## 🛠️ Languages & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
@@ -46,8 +34,7 @@ I am a passionate software developer focused on backend development and building
 
 ## 📫 Connect With Me
 
-<div align="left">
-
+<div align="center">
 <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn"/>
 </a>
@@ -57,13 +44,20 @@ I am a passionate software developer focused on backend development and building
 </a>
 &nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/kk234xww3" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geekforgeeks/geekforgeeks-original.svg" width="48" alt="GeeksforGeeks"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="48" alt="GeeksforGeeks"/>
 </a>
-
 </div>
 
-
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" width="300" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" width="300" alt="Top Languages"/>
+</div>
+
+⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
