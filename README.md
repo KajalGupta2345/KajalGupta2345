@@ -1,16 +1,15 @@
 <div align="center">
 
-## Hi 👋, I'm **Kajal Kumari**
-
-🎓 **Computer Science Student**
-💻 **Aspiring Software / Full-Stack Developer**
+<h1>Hi 👋, I'm Kajal Kumari</h1>
+<h3>🎓 Computer Science Student</h3>
+<h4>💻 Aspiring Software / Full-Stack Developer</h4>
 🇮🇳 India
 
-👨‍💻 Explore my projects:
-👉 [GitHub Repositories](https://github.com/KajalGupta2345?tab=repositories)
+👨‍💻 Explore my projects
+👉 <a href="https://github.com/KajalGupta2345?tab=repositories">GitHub Repositories</a>
 
-📫 Reach me on:
-👉 [LinkedIn](https://www.linkedin.com/in/kajal-gupta-357b85253/)
+📫 Reach me on
+👉 <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/">LinkedIn</a>
 
 </div>
 
@@ -20,9 +19,8 @@
 
 I am a passionate software developer with a strong interest in **backend development**.
 I enjoy building **scalable APIs**, working with **databases**, and writing **clean, maintainable code**.
-Alongside backend development, I have solid experience in **React.js** and frontend fundamentals.
-
-Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)** skills to improve problem‑solving ability and prepare for technical interviews.
+Along with backend, I also have solid experience in **React.js** and frontend fundamentals.
+Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)** skills to improve problem-solving and prepare for technical interviews.
 
 ---
 
@@ -31,7 +29,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 * Advanced Backend Development
 * Authentication & Authorization (**JWT**)
 * RESTful API Design
-* API performance optimization & database queries
+* Improving API performance & database queries
 * Strengthening **DSA** for technical interviews
 
 ---
@@ -94,6 +92,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 ⚡ **Fun Fact:** I love turning complex code into smooth, working applications — basically, making magic happen with just a keyboard.
 
 </div>
+
 
 
 
