@@ -31,7 +31,7 @@ I am a passionate software developer focused on backend development and building
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
@@ -46,7 +46,7 @@ I am a passionate software developer focused on backend development and building
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn"/>
   </a>
@@ -56,17 +56,18 @@ I am a passionate software developer focused on backend development and building
   </a>
   &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/kk234xww3" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/GeeksforGeeks.svg" width="36" alt="GeeksforGeeks"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geekforgeeks/geekforgeeks-original.svg" width="36" alt="GeeksforGeeks"/>
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" alt="Top Languages"/>
 </div>
+
 
 ⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
 
