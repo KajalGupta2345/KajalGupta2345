@@ -1,4 +1,6 @@
-
+<table>
+<tr>
+<td width="60%">
 <p align="right">
   <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" width="150" />
 </p>
@@ -22,7 +24,14 @@ I am a passionate software developer with a strong interest in **backend develop
 I enjoy building **scalable APIs**, working with **databases**, and writing clean, maintainable code.  
 Along with backend, I also have solid experience in **React.js** and frontend fundamentals.  
 Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)** skills to improve problem-solving and prepare for technical interviews.
+</td>
+<td width="40%" align="right">
 
+<img src="https://github.com/user-attachments/assets/3ddade75-5d4d-4f6a-97c9-84f3c7a164a5.png" width="250" />
+
+</td>
+</tr>
+</table>
 
 ---
 
