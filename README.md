@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f5d2a67-3085-490a-bf85-e672ad93da53" width="180" />
+<p align="right">
+  <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" width="150" />
 </p>
 
 ## Hi 👋, I'm Kajal Kumari 
@@ -13,7 +13,7 @@
 
 👨‍💻 Explore all my projects at https://github.com/KajalGupta2345?tab=repositories
 
-📫 How to reach me: https://www.linkedin.com/in/subhadra-kumari/
+📫 How to reach me: https://www.linkedin.com/in/kajal-gupta-357b85253/
 
 
 
