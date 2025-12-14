@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ## Hi 👋, I'm Kajal Kumari 
 
@@ -48,12 +48,6 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-### 📌 Projects
-- **Chat Application** – Real-time chat app built with **React, Node.js, Express & Socket.IO**, integrated with **AI-powered messaging**. 
-- **Backend APIs** with authentication and database integration.
-- **Moody-Player** – AI-powered app using **React & Express.js** that detects face expressions/emotions via loaded models in browser and plays songs based on mood.
-- **DSA Practice** and problem solving  
-
 ### 📫 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/">
@@ -70,10 +64,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 ⚡ Fun Fact: Loves turning complex code into smooth, working apps – basically, making magic happen with just a keyboard!
 
 </td>
-
-<td width="40%" valign="top" align="center">
-<img src="https://github.com/user-attachments/assets/3ddade75-5d4d-4f6a-97c9-84f3c7a164a5.png" width="250"/>
-</td>
 </tr>
 </table>
+
 
