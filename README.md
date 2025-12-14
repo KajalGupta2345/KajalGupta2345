@@ -1,28 +1,31 @@
-<div style="display: flex; align-items: flex-start;">
+<table>
+<tr>
+  <!-- Left column -->
+  <td valign="top">
 
-  <!-- Left side content -->
-  <div style="flex: 1;">
-    <h1>Hi 👋, I'm Kajal Kumari</h1>
-    <p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
-    <p>
-      <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
-        <strong>Explore my Projects</strong> ↗️
-      </a>
-    </p>
+<h1>Hi 👋, I'm Kajal Kumari</h1>
+<p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
+<p>
+  <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
+    <strong>Explore my Projects</strong> ↗️
+  </a>
+</p>
 
-    <ul>
-      <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
-      <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
-      <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
-    </ul>
-  </div>
+<ul>
+  <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
+  <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
+  <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
+</ul>
 
-  <!-- Right side image -->
-  <div style="margin-left: 20px;">
+  </td>
+
+  <!-- Right column -->
+  <td valign="top" width="200">
     <img src="https://avatars.githubusercontent.com/u/13456789?v=4" alt="Profile" width="150" style="border-radius: 50%;"/>
-  </div>
+  </td>
+</tr>
+</table>
 
-</div>
 
 
 ## 🛠️ Languages & Tools
