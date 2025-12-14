@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td width="100%" valign="top">
-
 ## Hi 👋, I'm Kajal Kumari 
 
 🎓 A passionate **Computer Science student**  
@@ -63,8 +59,5 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 
 ⚡ Fun Fact: Loves turning complex code into smooth, working apps – basically, making magic happen with just a keyboard!
 
-</td>
-</tr>
-</table>
 
 
