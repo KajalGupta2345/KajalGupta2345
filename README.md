@@ -1,12 +1,12 @@
+<div align="center">
+<h1>Hi 👋, I'm Kajal Kumari</h1>
+<p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
 <p>
-  <h1>Hi 👋, I'm Kajal Kumari</h1>
-  <p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
-  <p>
-    <a href="https://github.com/KajalGupta2345?tab=repositories">
-      <strong>Explore my Projects</strong> ↗️
-    </a>
-  </p>
+  <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
+    <strong>Explore my Projects</strong> ↗️
+  </a>
 </p>
+</div>
 
 ## 👩‍💻 About Me
 
@@ -14,60 +14,59 @@ I am a passionate software developer focused on backend development and building
 
 ## 🌱 Currently Working On
 
-- Advanced Backend Development
-- Authentication & Authorization (JWT)
-- RESTful API Design and Documentation
-- Performance tuning & database query optimization
-- Strengthening DSA for technical interviews
-
+* Advanced Backend Development
+* Authentication & Authorization (JWT)
+* RESTful API Design and Documentation
+* Performance tuning & database query optimization
+* Strengthening DSA for technical interviews
 
 ## 💬 Ask Me About
 
-- Backend Development
-- Node.js & Express.js
-- MongoDB & Databases
-- REST APIs & API design
-- JavaScript / React.js
-- Data Structures & Algorithms
-
+* Backend Development
+* Node.js & Express.js
+* MongoDB & Databases
+* REST APIs & API design
+* JavaScript / React.js
+* Data Structures & Algorithms
 
 ## 🛠️ Languages & Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=48 alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=48 alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=48 alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=48 alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=48 alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=48 alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=48 alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=48 alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=48 alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=48 alt="C++"/>
 
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
+</div>
 
 ## 📫 Connect With Me
 
+<div align="center">
   <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=36 alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Kajal_Gupta_85/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width=36 alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="36" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/kk234xww3">
-   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width=36 alt="Geeksforgeek"/>
+  <a href="https://www.geeksforgeeks.org/profile/kk234xww3" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/GeeksforGeeks.svg" width="36" alt="GeeksforGeeks"/>
   </a>
-
-
+</div>
 
 ## 📊 GitHub Stats
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KajalGupta2345&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345&layout=compact&theme=default" alt="Top Languages"/>
-
-
-
+</div>
 
 ⚡ <strong>Fun Fact:</strong> I love turning complex problems into smooth, working applications — making magic happen with a keyboard.
+
