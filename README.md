@@ -1,8 +1,8 @@
-<div align="center">
+<div>
 
-<h1>Hi 👋, I'm Kajal Kumari</h1>
-<h3>🎓 Computer Science Student</h3>
-<h4>💻 Aspiring Software / Full-Stack Developer</h4>
+<h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
+<h3  align="center">🎓 Computer Science Student</h3>
+<h4  align="center">💻 Aspiring Software / Full-Stack Developer</h4>
 🇮🇳 India
 
 👨‍💻 Explore my projects
@@ -48,7 +48,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
@@ -65,7 +65,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/kajal-gupta-357b85253/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
@@ -79,7 +79,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div >
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta2345\&layout=compact)
 
@@ -87,7 +87,7 @@ Currently, I am actively strengthening my **Data Structures & Algorithms (DSA)**
 
 ---
 
-<div align="center">
+<div>
 
 ⚡ **Fun Fact:** I love turning complex code into smooth, working applications — basically, making magic happen with just a keyboard.
 
