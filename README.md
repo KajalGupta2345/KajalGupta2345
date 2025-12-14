@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Kajal Kumari</h1>
-<p>🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
+<h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
+<p align="center">🎓 Computer Science Student • 💻 Aspiring Software / Full-Stack Developer • 🇮🇳 India</p>
 <p>
   <a href="https://github.com/KajalGupta2345?tab=repositories" target="_blank">
     <strong>Explore my Projects</strong> ↗️
