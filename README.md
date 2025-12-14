@@ -55,8 +55,8 @@ I am a passionate software developer focused on backend development and building
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width=36 alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:kajal@example.com">
-    ✉️ kajal@example.com
+  <a href="https://www.geeksforgeeks.org/profile/kk234xww3">
+   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width=36 alt="Geeksforgeek"/>
   </a>
 
 
