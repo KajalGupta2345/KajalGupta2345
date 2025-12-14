@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/3f5d2a67-3085-490a-bf85-e672ad93da53" width="180" />
 </p>
 
-## Hi 👋, I'm Kajal Gupta  
+## Hi 👋, I'm Kajal Kumari 
 
 🎓 A passionate **Computer Science student**  
 💻 Aspiring **Software Developer / Full-Stack Developer**  
