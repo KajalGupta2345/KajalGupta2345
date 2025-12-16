@@ -7,7 +7,7 @@
 </p>
 
 <!-- Right side image -->
-<img src="https://cdn.jsdelivr.net/gh/svg-repo/svgs/logos/female-programmer.svg" width="100" alt="Coding Girl"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/svg-repo/svgs/logos/female-programmer.svg" width="100" alt="Coding Girl"/> -->
 
 
 <ul>
