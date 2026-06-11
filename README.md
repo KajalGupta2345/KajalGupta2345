@@ -31,7 +31,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** — Sitamarhi Institute of Technology (2022–2026) | CGPA: 8.67
-- 🏗️ Built a **9-service microservices e-commerce backend** with an AI shopping assistant using LangChain, Google Gemini & LangGraph
+- 🏗️ Built a **8-service microservices e-commerce backend** with an AI shopping assistant using LangChain, Google Gemini & LangGraph
 - 🤖 Passionate about **AI/GenAI engineering** — RAG pipelines, vector databases, LLM-powered apps
 - 🧪 Wrote integration tests with **85%+ code coverage** using Jest & Supertest
 - 🚀 Deployed containerized services on **AWS ECS Fargate** via Docker & ECR
