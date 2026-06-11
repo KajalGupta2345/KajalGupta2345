@@ -44,7 +44,7 @@
 ## 🚀 Featured Projects
 
 ### 🛒 [Online Marketplace — Microservices Backend](https://github.com/KajalGupta2345/Online-Market-Place-Using-Microservices-Architecture)
-> Production-grade e-commerce backend with 9 independent microservices and an AI shopping assistant
+> Production-grade e-commerce backend with 8 independent microservices and an AI shopping assistant
 
 - **8 microservices** — Auth, Product, Cart, Order, Payment, Notification, Seller, AI Buddy — each with its own database
 - **AI Buddy** — real-time shopping assistant using **LangChain + Google Gemini + LangGraph** via Socket.io (WebSockets)
