@@ -46,7 +46,7 @@
 ### 🛒 [Online Marketplace — Microservices Backend](https://github.com/KajalGupta2345/Online-Market-Place-Using-Microservices-Architecture)
 > Production-grade e-commerce backend with 9 independent microservices and an AI shopping assistant
 
-- **9 microservices** — Auth, Product, Cart, Order, Payment, Notification, Seller, AI Buddy — each with its own database
+- **8 microservices** — Auth, Product, Cart, Order, Payment, Notification, Seller, AI Buddy — each with its own database
 - **AI Buddy** — real-time shopping assistant using **LangChain + Google Gemini + LangGraph** via Socket.io (WebSockets)
 - **Event-driven architecture** — RabbitMQ for async inter-service communication (order placed → email notification)
 - **JWT + Redis** token blacklisting for stateless yet revocable authentication
